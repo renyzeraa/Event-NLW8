@@ -1,3 +1,3 @@
 Ola !
 
-Este projeto foi desenvolvido no evento NLW 8ª edição da rocketseat em fevereiro/2022
+Este projeto foi desenvolvido online no evento NLW Return 8ª edição da RocketSeat em fevereiro/2022
