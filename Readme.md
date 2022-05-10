@@ -8,4 +8,4 @@ O objetivo final é uma pagina web para uma empresa
 (o exemplo usado foi de uma clinica), apresentando
 quais demandas ela atende, contato.
 
-Segue o link: https://renyzeraa.github.io/Projeto-NLW/
+Segue o link: https://renyzeraa.github.io/Project-DoctorCare/
