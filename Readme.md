@@ -2,7 +2,7 @@
 
 Faaala dev!, seja bem-vindo a mais um projeto.
 
-Desenvolvi junto do evento da NLW (next level week) Return 8ª edição com a RocketSeat 🚀, e decidi participar para botar alguns dos conhecimentos que aprendi em praticar e também para continuar adquirindo novos conhecimentos.
+Desenvolvi junto do evento da NLW (next level week) Return 8ª edição com a RocketSeat 🚀, decidi participar para botar alguns dos meus conhecimentos em pratica e também para continuar adquirindo novos.
 
 ## <a href="https://renyzeraa.github.io/LP-doctorcare/" > Deploy 🛫 </a>
 
