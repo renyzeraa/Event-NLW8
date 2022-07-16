@@ -6,7 +6,7 @@ Desenvolvi junto do evento da NLW (next level week) Return 8ª edição com a Ro
 
 ## <a href="https://renyzeraa.github.io/LP-doctorcare/" > Deploy 🛫 </a>
 
-O objetivo final é uma landing page para uma empresa (o exemplo usado foi de uma clinica), com mobile first, toda adaptada para telas menores e maiores, apresentando quais produtos tem a oferecer, clientes impactados, contato e mais.
+O objetivo final é uma landing page para uma empresa (o exemplo usado foi de uma clinica), com mobile first e animação com scroll, toda adaptada para telas menores e maiores, apresentando quais produtos tem a oferecer, clientes impactados, contato e mais.
 
 ### Para fazer este projeto usei 👇
 <span>
